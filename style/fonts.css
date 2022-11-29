@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Euclid Circular';
+    src: url('../assets/fonts/Euclid_Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'fontello';
+    src:
+         url('../assets/fontello-cff14400/font/fontello.woff2') format('woff2'),
+         url('../assets/fontello-cff14400/font/fontello.woff') format('woff'),
+         url('../assets/fontello-cff14400/font/fontello.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
